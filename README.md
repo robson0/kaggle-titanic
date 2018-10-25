@@ -1,2 +1,2 @@
 # kaggle-titanic
-Submission for Kaggle.com Titanic Competition
+Analyze survival data from the Titanic disaster for Kaggle.com competition
