@@ -9,9 +9,8 @@ pacman::p_load(readr)
 library('readr')
 
 # import data
-setwd('C:/Users/Lenovo/Documents/Kaggle/Titanic')
-train <- read_csv('train.csv')
-test  <- read_csv('test.csv')
+train <- read_csv('Data/train.csv')
+test  <- read_csv('Data/test.csv')
 
 # join datasets
 train$set <- "train"
